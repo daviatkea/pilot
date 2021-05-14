@@ -39,7 +39,7 @@ h3 {
 
 h1 {
   --min-fs: 3;
-  --max-fs: 5;
+  --max-fs: 8;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke: clamp(1px, 0.2vw, 2px) currentColor;
   text-transform: uppercase;
