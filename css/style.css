@@ -87,6 +87,13 @@ header {
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 calc(100% - 1.5rem));
 }
 
+header p {
+  order: -1;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+
 /* ----- Section ----- */
 
 section {
